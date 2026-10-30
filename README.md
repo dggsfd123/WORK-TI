@@ -2,6 +2,9 @@
 
 一款轻松有趣的职场人格测试小游戏。通过 37 道职场情境题，测出你在「职场 16 型人格」中的归属，并隐藏 1 道彩蛋题，有机会解锁 4 种隐藏人格。
 
+<img width="1293" height="1380" alt="teaser_compressed" src="https://github.com/user-attachments/assets/d434127f-2b02-489c-b66b-5b5730225015" />
+
+
 ## 功能简介
 
 - 37 道情境题，全程点击操作，约 3 分钟完成
